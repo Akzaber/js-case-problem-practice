@@ -14,5 +14,3 @@ function wordReverese(string){
 const myString = 'I am a worst man in the world';
 const reversed = wordReverese(myString)
 console.log(reversed)
-
-Add korte hobe git hub e
